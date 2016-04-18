@@ -1,7 +1,7 @@
 # gulp-dotjs-compiler
 
 [![npm](https://img.shields.io/npm/v/gulp-dotjs-compiler.svg?style=flat-square)](https://www.npmjs.com/package/gulp-dotjs-compiler)
-[![npm](https://img.shields.io/npm/dt/gulp-dotjs-compiler.svg?style=flat-square)](https://www.npmjs.com/package/ucshare)
+[![npm](https://img.shields.io/npm/dt/gulp-dotjs-compiler.svg?style=flat-square)](https://www.npmjs.com/package/gulp-dotjs-compiler)
  
 
 ## Guide
