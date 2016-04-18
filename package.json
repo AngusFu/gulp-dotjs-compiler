@@ -1,6 +1,6 @@
 {
     "name": "gulp-dotjs-compiler",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "description": "this is a doT compiler based on gulp-dot",
     "main": "index.js",
     "scripts": {

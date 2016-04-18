@@ -1,4 +1,9 @@
-# gulp-dot-compiler
+# gulp-dotjs-compiler
+
+[![npm](https://img.shields.io/npm/v/gulp-dotjs-compiler.svg?style=flat-square)](https://www.npmjs.com/package/gulp-dotjs-compiler)
+[![npm](https://img.shields.io/npm/dt/gulp-dotjs-compiler.svg?style=flat-square)](https://www.npmjs.com/package/ucshare)
+ 
+
 ## Guide
 This compiler is mainly based on [vohof's](https://github.com/vohof/gulp-dot) ```gulp-dot```, with a little modification.
 
@@ -32,7 +37,7 @@ $ npm install gulp-dotjs-compiler
 var header = require('gulp-header'),
     footer = require('gulp-footer');
 
-var dotCompile = require('gulp-dot-compiler');
+var dotCompile = require('gulp-dotjs-compiler');
 
 gulp.task('dot', function () {
     var wrapper = moduleWrap('dotTempl');
