@@ -9,13 +9,15 @@ There are something changed:
 
 ## DEMO
 
-###install
+[demo](https://github.com/AngusFu/gulp-starter)
+
+## INSTALL
 
 ```bash
-$ cnpm install gulp-dotjs-compiler 
+$ npm install gulp-dotjs-compiler 
 ```
 
-###usage
+## HOW TO USE
 
 ```javascript
 /**
@@ -94,3 +96,4 @@ function moduleWrap(modName) {
 [https://github.com/outten45/gulp-dot](https://github.com/outten45/gulp-dot)
 
 [https://github.com/kentliau/gulp-dot-precompiler](https://github.com/kentliau/gulp-dot-precompiler)
+
